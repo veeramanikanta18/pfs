@@ -1,0 +1,3 @@
+act as an ATS system and scan the attached resume file for the following job
+descriptions and also make sure to provide improvements and suggestions and 
+finally give it a score
