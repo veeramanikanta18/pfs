@@ -1,0 +1,19 @@
+1. state the difference between lists and tuples in python programming.
+ans:
+        -> list: lists are editable, which is mutable. 
+                 slower.
+        -> tuple: A tuple is a list that cannot be altered, which is immutable.
+                  Faster.
+
+
+2. factorial of a number?
+
+def fact(n):
+    if n == 1
+        return 1
+    else
+        return n * fact(n-1)
+
+n = int(input())
+r = fact(n)
+print(r)
